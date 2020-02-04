@@ -48,3 +48,4 @@ lib/main.dart
 lib/main.dart
 pubspec.lock
 .gitignore
+lib/home_view.dart
