@@ -49,3 +49,4 @@ lib/main.dart
 pubspec.lock
 .gitignore
 lib/home_view.dart
+pubspec.yaml
